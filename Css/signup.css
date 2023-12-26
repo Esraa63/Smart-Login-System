@@ -1,0 +1,25 @@
+body{
+    font-family:'Titillium Web', sans-serif;
+}
+.background{
+    background-image: url('../Images/img.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height:100vh ;
+}
+button{
+    border: 1px solid #F6D5D5 !important;
+    color: #fff !important;
+}
+button:hover{
+    background-color: #F6D5D5 !important;
+    color: #C25C74 !important;  
+}
+.signbox{
+    background-color:#C25C74;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
